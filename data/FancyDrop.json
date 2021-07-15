@@ -1,0 +1,188 @@
+{
+  "Categories": {
+    "1": {
+      "LootSpawn.SupplyDrop": {
+        "C4": 10,
+        "Armor": 200,
+        "Ammo": 300,
+        "Collection.Rifles": 100,
+        "Mining Ore": 20,
+        "Traps": 40,
+        "HQMetal_Large": 30,
+        "TurretParts": 50
+      }
+    },
+    "2": {
+      "Armor": {
+        "ArmorBasic": 50,
+        "ArmorMedium": 30,
+        "ArmorRare": 10
+      },
+      "Ammo": {
+        "Pistol": 50,
+        "Rifle": 50,
+        "Shotgun": 50
+      },
+      "Collection.Rifles": {
+        "AK47 With Ammo": 25,
+        "SMG with Ammo": 75,
+        "Bolt Rifle With Ammo": 25,
+        "Custom Smg With Ammo": 75,
+        "LR300 With Ammo": 15,
+        "MP5 With Ammo": 25
+      },
+      "TurretParts": {
+        "targeting_computer": 55,
+        "cctv_camera": 45
+      }
+    },
+    "3": {
+      "ArmorBasic": {
+        "hoodie": 10,
+        "pants": 10,
+        "tshirt.long": 7,
+        "tshirt": 10,
+        "attire.hide.poncho": 10,
+        "shoes.boots": 5
+      },
+      "ArmorMedium": {
+        "coffeecan.helmet": 40,
+        "bucket.helmet": 40,
+        "jacket.snow": 50,
+        "riot.helmet": 40
+      },
+      "ArmorRare": {
+        "metal.plate.torso": 30,
+        "metal.facemask": 20,
+        "jacket": 50
+      },
+      "Pistol": {
+        "PistolRegular": 50,
+        "PistolFire": 20,
+        "PistolHV": 10
+      },
+      "Rifle": {
+        "RifleRegular": 50,
+        "RifleFire": 20,
+        "RifleHV": 10,
+        "RifleEXP": 10
+      },
+      "Shotgun": {
+        "ShotgunShells": 50,
+        "ShotgunSlugs": 30
+      }
+    }
+  },
+  "Items": {
+    "C4": {
+      "explosive.timed": 1
+    },
+    "hoodie": {
+      "hoodie": 1
+    },
+    "pants": {
+      "pants": 1
+    },
+    "tshirt.long": {
+      "tshirt.long": 1
+    },
+    "tshirt": {
+      "tshirt": 1
+    },
+    "attire.hide.poncho": {
+      "attire.hide.poncho": 1
+    },
+    "shoes.boots": {
+      "shoes.boots": 1
+    },
+    "coffeecan.helmet": {
+      "coffeecan.helmet": 1
+    },
+    "bucket.helmet": {
+      "bucket.helmet": 1
+    },
+    "jacket.snow": {
+      "jacket.snow": 1
+    },
+    "riot.helmet": {
+      "riot.helmet": 1
+    },
+    "metal.plate.torso": {
+      "metal.plate.torso": 1
+    },
+    "metal.facemask": {
+      "metal.facemask": 1
+    },
+    "jacket": {
+      "jacket": 1
+    },
+    "PistolRegular": {
+      "ammo.pistol": 15
+    },
+    "PistolFire": {
+      "ammo.pistol.fire": 10
+    },
+    "PistolHV": {
+      "ammo.pistol.hv": 10
+    },
+    "RifleRegular": {
+      "ammo.rifle": 12
+    },
+    "RifleFire": {
+      "ammo.rifle.incendiary": 8
+    },
+    "RifleHV": {
+      "ammo.rifle.hv": 10
+    },
+    "RifleEXP": {
+      "ammo.rifle.explosive": 8
+    },
+    "ShotgunShells": {
+      "ammo.shotgun": 6
+    },
+    "ShotgunSlugs": {
+      "ammo.shotgun.slug": 4
+    },
+    "AK47 With Ammo": {
+      "rifle.ak": 1,
+      "ammo.rifle": 12
+    },
+    "SMG with Ammo": {
+      "smg.thompson": 1,
+      "ammo.pistol": 15
+    },
+    "Bolt Rifle With Ammo": {
+      "rifle.bolt": 1,
+      "ammo.rifle": 8
+    },
+    "Custom Smg With Ammo": {
+      "smg.2": 1,
+      "ammo.pistol": 20
+    },
+    "LR300 With Ammo": {
+      "rifle.lr300": 1,
+      "ammo.rifle": 20
+    },
+    "MP5 With Ammo": {
+      "smg.mp5": 1,
+      "ammo.pistol": 30
+    },
+    "Mining Ore": {
+      "mining.quarry": 1,
+      "surveycharge": 10
+    },
+    "Traps": {
+      "trap.landmine": 3,
+      "trap.bear": 3
+    },
+    "HQMetal_Large": {
+      "metal.refined": 50
+    },
+    "targeting_computer": {
+      "targeting.computer": 1
+    },
+    "cctv_camera": {
+      "cctv.camera": 1
+    }
+  }
+}

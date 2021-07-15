@@ -1,0 +1,7366 @@
+{
+  "76561198017527042": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1480558922.4526849
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480609327.3779089
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480609330.4286489
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1480558949.4547503
+    }
+  },
+  "76561198118597561": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479688850.1662793
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479739270.7650311
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479739296.3055229
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479688902.8477948
+    }
+  },
+  "76561198158828861": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479704790.1198242
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479754804.1847556
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479706890.843169
+    }
+  },
+  "76561198173928834": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198063790121": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198109553184": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479712367.7228532
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479762775.4612737
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479715893.3054748
+    }
+  },
+  "76561198139159271": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479775737.8526869
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479726494.0133083
+    }
+  },
+  "76561198103841743": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479725984.0603216
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479776390.2612689
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479725986.8439908
+    }
+  },
+  "76561198287658119": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198213867601": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198277705457": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198121191912": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479768856.6010537
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479820606.5424871
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479769339.8003848
+    }
+  },
+  "76561198028561055": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479926112.8503213
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479915226.8472435
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479823179.215378
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479841795.5379238
+    }
+  },
+  "76561198233010896": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479871656.9415021
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480012353.7645481
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480010989.0549555
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479931272.1644998
+    }
+  },
+  "76561198325763082": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479778020.7543983
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198142641234": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561197983470991": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479779328.7155793
+    }
+  },
+  "76561198079859410": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479896872.564322
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479950582.4821515
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479948116.3864548
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479876663.6663632
+    }
+  },
+  "76561198067054997": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479779232.55237
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479779229.4814348
+    }
+  },
+  "76561198127570532": {
+    "food": {
+      "max": 0,
+      "cooldown": 1479779212.6653025
+    },
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479829735.6792569
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198171960215": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479779387.7401769
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479779427.2240396
+    }
+  },
+  "76561198110126543": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479830451.2944477
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198170984410": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479863379.532439
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479830830.4119763
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479834362.228574
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479863375.060153
+    }
+  },
+  "76561198146548953": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479949614.2914441
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480013327.8185523
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480013515.2302575
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479952291.361438
+    }
+  },
+  "76561198102291683": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479780588.4595282
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479830719.7208371
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479831358.8817165
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479780981.6345348
+    }
+  },
+  "76561198061664033": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479780569.3802333
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479830954.8492975
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479831422.3425689
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479780566.4083805
+    }
+  },
+  "76561198135868549": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479780837.3631949
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479923059.4848251
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479923806.7994244
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479873401.9867954
+    }
+  },
+  "76561198127723617": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479780898.1685073
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479831674.5674229
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479833510.2215993
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479785541.3868012
+    }
+  },
+  "76561198097070831": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479922871.7287891
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479964653.487586
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198021097422": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479804024.8682888
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479832134.4113593
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479836747.2945716
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198263197129": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479782126.7145317
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479833756.5918417
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479782150.6114459
+    }
+  },
+  "76561198164597540": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479832449.965939
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198071349487": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479782108.5641277
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479833732.3465912
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198051159350": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479856992.2818196
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479833335.3729403
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479861623.8529551
+    }
+  },
+  "76561198125988045": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479782391.2481887
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198193075482": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198274583171": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479783473.7792082
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479995609.1194003
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479914245.10487
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479783252.0245831
+    }
+  },
+  "76561198014980654": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479856984.3932536
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479834317.5567417
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479836018.5107543
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479857661.2953215
+    }
+  },
+  "76561198190250315": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479856583.9422665
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479833690.1160972
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479836259.1474965
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479858760.1199644
+    }
+  },
+  "76561198304667057": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479783259.7279606
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479833716.6655607
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198238021428": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479847890.9056773
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479930403.0774677
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479854766.9292867
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479846023.992517
+    }
+  },
+  "76561198078258402": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479784054.0756464
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479836342.7256389
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479834456.1486323
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479784058.6270092
+    }
+  },
+  "76561198063505738": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479874438.589776
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198085257719": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479784084.926229
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479835002.7968061
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479837784.2829244
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479789364.0622976
+    }
+  },
+  "76561198024063694": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479784061.478745
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479839499.5486629
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479834468.152143
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479784064.2393901
+    }
+  },
+  "76561198146616656": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479784213.1812079
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479834621.2639711
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479834633.4246211
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479784226.9053681
+    }
+  },
+  "76561198020540971": {
+    "daily": {
+      "max": 0,
+      "cooldown": 1479927434.8252609
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479877070.079072
+    },
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479868228.2838221
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479927462.2425508
+    }
+  },
+  "76561198020886067": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479830929.5176871
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480013275.2531464
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479843288.504504
+    }
+  },
+  "76561198175724177": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479961771.7900548
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480012271.9250729
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480012916.9115388
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479873990.0646946
+    }
+  },
+  "76561198321610239": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479785383.5024087
+    }
+  },
+  "76561198120650977": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479919135.0627637
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479920402.0706773
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479858394.4933715
+    }
+  },
+  "76561198134154536": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479785396.3237059
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479839174.6250968
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479835819.7031205
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479785504.8908112
+    }
+  },
+  "76561198042597762": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479785629.0768859
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198071187329": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479837528.4686265
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198065047410": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479787654.3558929
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479841056.8399222
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479789078.5745492
+    }
+  },
+  "76561198129382123": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479785695.058156
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479836112.8031776
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479785724.3502412
+    }
+  },
+  "76561198147293674": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479825762.8654771
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479842173.2984719
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479842327.3251679
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479826636.9426124
+    }
+  },
+  "76561198101400883": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479789585.5536845
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479836819.5018113
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479844452.8673131
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479845706.9675276
+    }
+  },
+  "76561198133930332": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479786575.1500597
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479837857.6923132
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479790022.2874594
+    }
+  },
+  "76561198015640995": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479786710.3447
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479837059.015476
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198113600045": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479835155.4588697
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479841779.2025812
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479836984.3719008
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479835138.828922
+    }
+  },
+  "76561198133222895": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479787200.2995036
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479837342.6244369
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479837587.8926072
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479787194.0835435
+    }
+  },
+  "76561198153788979": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479787035.897861
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198099480298": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198100457806": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479939495.7459464
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479988767.852442
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479989825.1792812
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479939422.0002439
+    }
+  },
+  "76561198068332080": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479870346.9693949
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479837520.4008925
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479787141.3760035
+    }
+  },
+  "76561198081321180": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479882989.3449459
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479934186.7525659
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479962708.5493047
+    }
+  },
+  "76561198114568519": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479787346.2024095
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479839261.3492575
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479789123.4335639
+    }
+  },
+  "76561198148160657": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479787613.3005223
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198079795087": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479787867.2440271
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479838272.5361004
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479838283.3865037
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479787876.65605
+    }
+  },
+  "76561198056687541": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479838857.4469604
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198268114306": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479789112.6322062
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198269042572": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479839599.3843915
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198027533598": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479959523.4621727
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480010230.6637456
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479959933.7295711
+    }
+  },
+  "76561198069539222": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479839982.0042789
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198140266160": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479858098.4945593
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479980735.2781377
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479991645.5317855
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479850873.4085352
+    }
+  },
+  "76561198122290937": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479790423.3200016
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479841086.6645308
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479840832.7180133
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479790414.6396806
+    }
+  },
+  "76561198152111065": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479790685.5124152
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479841065.8215315
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479790825.0141823
+    }
+  },
+  "76561198303201756": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479960553.8592029
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479929267.9830439
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480010959.1422679
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479953145.6335959
+    }
+  },
+  "76561198341118656": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198024405403": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479870380.0310967
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479841890.6404388
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479871147.7252233
+    }
+  },
+  "76561198269614634": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479791712.629298
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479842165.7472336
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479842171.5427885
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479791781.7665944
+    }
+  },
+  "76561198263129762": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479842129.346328
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479842439.7269547
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479855146.8192365
+    }
+  },
+  "76561198075059647": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198217567089": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479793024.1148582
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479843026.0101256
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198063448601": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198011500389": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479792995.7336469
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198341085647": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198168578264": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479872374.37644
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479844010.152802
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479872469.2343955
+    }
+  },
+  "76561198287243006": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479793784.7111807
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479844461.5806656
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479793691.1014206
+    }
+  },
+  "76561198076295047": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198112031816": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479795649.0899153
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479849241.3258803
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479853364.2893181
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479802950.8133965
+    }
+  },
+  "76561198058075913": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479795792.9408371
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479846867.1433177
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479846518.3909075
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479796098.0494003
+    }
+  },
+  "76561198007929013": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479795754.7572241
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479846867.3034713
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479795812.5586486
+    }
+  },
+  "76561198184037529": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479957012.7687137
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479987298.0100226
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479991514.8785071
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479957863.7306852
+    }
+  },
+  "76561198122025941": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479798618.1258583
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479848632.4130039
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479798422.2460339
+    }
+  },
+  "76561198018753775": {
+    "daily": {
+      "max": 0,
+      "cooldown": 1479848797.229044
+    },
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479798448.6663682
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479928327.1298776
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479877942.5856965
+    }
+  },
+  "76561198036989611": {
+    "daily": {
+      "max": 0,
+      "cooldown": 1479942077.99434
+    },
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479858675.9742792
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479849038.6685553
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479858680.5917099
+    }
+  },
+  "76561198195038338": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479798758.0700481
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198161470848": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479798693.8604803
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479849000.0995729
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479849138.5203023
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198202031131": {
+    "daily": {
+      "max": 0,
+      "cooldown": 1479936635.6347561
+    },
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479857675.8292572
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479857669.380074
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479908090.0538995
+    }
+  },
+  "76561198189638487": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479943765.8925154
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479965935.8932648
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480001688.7880871
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479942362.4337633
+    }
+  },
+  "76561198038675995": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479800099.8386483
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198020557113": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479801312.2131739
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479851903.1622703
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198314121778": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198050793424": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479957524.8006942
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479944696.6583312
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479943215.3369193
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479957417.9952779
+    }
+  },
+  "76561198073264169": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479892104.2640843
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479944805.8059969
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479944793.5432336
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479898324.3033693
+    }
+  },
+  "76561198119058842": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479853673.3356569
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198103533378": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479947235.9258697
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479997641.1889155
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479947252.9922476
+    }
+  },
+  "76561198078882192": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479906000.986408
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479955359.052314
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479954486.1232777
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479945157.7131078
+    }
+  },
+  "76561198274548954": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479808480.3715932
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479997750.7079322
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479878454.7240973
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479820533.1598024
+    }
+  },
+  "76561198022502492": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479864454.2112525
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198127788774": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479814183.3350649
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479865989.5764875
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479868234.2458613
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479814089.8163924
+    }
+  },
+  "76561198018489222": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479901611.7386467
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480010753.8273959
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479898678.804296
+    }
+  },
+  "76561198127750409": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479817817.6679652
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479867900.3496928
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479868311.6230571
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198136683317": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479864857.4956319
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479868163.633152
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479868293.9401011
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479867920.5447364
+    }
+  },
+  "76561198064958113": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479817791.7451184
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198120271827": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479958076.5497544
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479991643.2886341
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479992856.3948605
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479942452.8704824
+    }
+  },
+  "76561198174972961": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479873052.336843
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198034422379": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479880509.2061064
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198088946753": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479830622.5083044
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479881013.4336011
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479881024.9846785
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198137408873": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198088412928": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479835521.4418027
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198321827285": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479941328.1570134
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479991669.9221745
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479992024.0837722
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479941350.842766
+    }
+  },
+  "76561198111100434": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479839356.806469
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198146000738": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479926464.05909
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479893833.335381
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479913471.3158972
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479926375.1528385
+    }
+  },
+  "76561198105489990": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479842449.2267363
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479893185.9295931
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198075356721": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479941851.5719085
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480001790.1182511
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479992801.9436505
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479942387.5298288
+    }
+  },
+  "76561198037490856": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479935928.6445174
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479984960.7778933
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479985077.4057243
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479934672.328856
+    }
+  },
+  "76561198130073299": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479938696.5686309
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479996538.6647251
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479992453.7557771
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479944419.2640307
+    }
+  },
+  "76561197961528026": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479932439.6419735
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479911677.7781043
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479898727.6004069
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479933431.3849366
+    }
+  },
+  "76561198084174855": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479843914.9822247
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479894343.3794515
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479894333.7362049
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198202686386": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479944783.4752576
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479996517.9098251
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479993384.1579237
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479844077.6522031
+    }
+  },
+  "76561198133175079": {
+    "daily": {
+      "max": 0,
+      "cooldown": 1479895211.2466369
+    }
+  },
+  "76561198040468409": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479898796.1277952
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480000624.2102833
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198189543534": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479951788.4431989
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480000928.574132
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479951685.4914794
+    }
+  },
+  "76561198081916707": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479846977.472791
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198130989004": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479930369.3898451
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479897561.0988665
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198066257079": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479918605.5897431
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479898422.4377911
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198123023520": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479847988.1188817
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479898754.8745568
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479898395.7171679
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479847992.4470339
+    }
+  },
+  "76561198187274327": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479848311.8713219
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479900072.1987183
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198053722603": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479900049.0355053
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479851109.1746075
+    }
+  },
+  "76561198151419151": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479954557.2011249
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480004992.0825589
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480004959.3962176
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479954561.2419872
+    }
+  },
+  "76561198347076420": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479850515.7025375
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480000652.8617566
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479980332.55497
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479930672.5014932
+    }
+  },
+  "76561198137280037": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479850535.5936112
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479900873.9915414
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479901245.5067806
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479850849.2754047
+    }
+  },
+  "76561197963568266": {
+    "daily": {
+      "max": 0,
+      "cooldown": 1479901098.8581622
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479901246.8851027
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479850853.3623135
+    }
+  },
+  "76561198159471609": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479851717.1726067
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479902008.1360548
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198292462262": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479901915.773488
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198068532275": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479851457.9980881
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479902036.2349963
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198156628817": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479851464.9347391
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479902016.8203807
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479902175.1632121
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479851826.4253664
+    }
+  },
+  "76561198148848272": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479851465.9527175
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479901919.0256059
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198084163993": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198055937282": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479851641.8203535
+    }
+  },
+  "76561198277848872": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479851676.8479393
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198135099548": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198088407926": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479852350.0784905
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479905270.6003728
+    }
+  },
+  "76561198214630907": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198126227979": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479852909.9693587
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198091819342": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198083394171": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479936637.43116
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480002666.9790716
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479984100.0495534
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479934140.9082873
+    }
+  },
+  "76561198239698824": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479856635.1964133
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479907178.5558789
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479856708.1523693
+    }
+  },
+  "76561198116112151": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479997407.0764303
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479946936.1694384
+    }
+  },
+  "76561198250074354": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479856658.3756392
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479907380.9859848
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479907087.8559072
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479858452.6841705
+    }
+  },
+  "76561198049556276": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479856722.2238643
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479856729.4147573
+    }
+  },
+  "76561198042417212": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479857505.8602793
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479907763.7680297
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479857510.5027306
+    }
+  },
+  "76561198172130505": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479857576.4730003
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479908033.1743643
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479908012.8889115
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479857609.4145756
+    }
+  },
+  "76561198143726981": {
+    "food": {
+      "max": 0,
+      "cooldown": 1479957201.7138889
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479911753.1533792
+    },
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479921068.5967965
+    }
+  },
+  "76561198106214683": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479858150.6725769
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479908827.364892
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198179620813": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198125520396": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479922865.4264233
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480008934.2516367
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480004942.8643661
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479922968.65141
+    }
+  },
+  "76561198139142687": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479860545.6620903
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479911010.2249985
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479860589.862473
+    }
+  },
+  "76561198071008805": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198113200846": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198254762043": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479861177.2006619
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480000685.6111593
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479947596.1723037
+    }
+  },
+  "76561198116688676": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479862406.8167193
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479911640.5924501
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479912790.6782444
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479861449.9562025
+    }
+  },
+  "76561198188794607": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479861472.9422433
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198168608482": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479912090.9903257
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198215085791": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479912063.9984491
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198329660462": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479861935.3376255
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198073975481": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479862451.6787364
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479912859.282027
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479862463.7583196
+    }
+  },
+  "76561198136510212": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479913164.648838
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198302040611": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479863403.0339744
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479914051.4361629
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479913995.9219337
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479863586.9423313
+    }
+  },
+  "76561198243299494": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479864697.6113224
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479914880.39504
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479915108.4777417
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479864091.116766
+    }
+  },
+  "76561198127654304": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479864547.1380379
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479916383.8486722
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479864550.3401086
+    }
+  },
+  "76561198316914831": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198063158086": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479865598.4281013
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479916481.9737625
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198117897375": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479866247.2492416
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479916457.2670722
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198217967032": {
+    "food": {
+      "max": 0,
+      "cooldown": 1479868252.2498059
+    },
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198077485761": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479868374.5750985
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479918782.4156165
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479868378.4558191
+    }
+  },
+  "76561198111682660": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479868879.6103675
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198072069233": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479868799.7528071
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479919219.1554003
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479919228.6695232
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479868845.5417
+    }
+  },
+  "76561198330837617": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479869340.5323379
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479920389.7568688
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479870507.7095237
+    }
+  },
+  "76561198061533519": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479869480.5035539
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479920937.6232071
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198042835585": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479920829.5562632
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479920163.2807059
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479920066.6950893
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479869686.2128048
+    }
+  },
+  "76561198123192765": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479934669.9135413
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479920156.8625617
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479985075.8972771
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479934680.3875828
+    }
+  },
+  "76561198100083888": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479921575.6720212
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198135216259": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479870614.0595031
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479921023.4525077
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479922970.5865836
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479870990.5635355
+    }
+  },
+  "76561198108097339": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479871797.2160089
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479921042.6389048
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479922966.3164859
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479870985.6077719
+    }
+  },
+  "76561198245091414": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479945952.4451623
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480008895.7457139
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480010679.4580843
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479945955.7553363
+    }
+  },
+  "76561198070673722": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479957908.4195366
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480008923.2941289
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480011553.3250194
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479961112.7491119
+    }
+  },
+  "76561198168045301": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479871981.8410428
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198162171924": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479872244.4048104
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198214654693": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479955182.7739651
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480004588.3434219
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479954259.8820183
+    }
+  },
+  "76561198133183009": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198088024310": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479873761.5445693
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479923863.4867685
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198271840651": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479874650.0335281
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479923899.1739888
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479910974.2742069
+    }
+  },
+  "76561198344167230": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479874684.2193055
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479924976.3778987
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479925127.5048139
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479874744.6252313
+    }
+  },
+  "76561198264361402": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479949573.3682091
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479934574.0339255
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479949952.6438828
+    }
+  },
+  "76561198331850241": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479941651.1867623
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479927767.695446
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198092595334": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479876610.9948587
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479932337.2761374
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479877262.3023863
+    }
+  },
+  "76561198198836275": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479876606.9099422
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479927054.5406127
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479876629.7948844
+    }
+  },
+  "76561198097339931": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479949975.1214383
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479927530.5890892
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479877234.1023462
+    }
+  },
+  "76561198051043453": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479918106.5091808
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479927553.0125887
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479927730.3396244
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479918091.3216195
+    }
+  },
+  "76561198105872699": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479927691.9137836
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479880906.2745261
+    }
+  },
+  "76561198189515478": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198081994369": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479877646.3136065
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479928350.3831735
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479878236.1071489
+    }
+  },
+  "76561198108353863": {
+    "medic": {
+      "max": 0,
+      "cooldown": 1479928373.7535849
+    }
+  },
+  "76561198171110918": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198289210314": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479956874.0356841
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479986142.7032211
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479935746.8612063
+    }
+  },
+  "76561198126457035": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479879224.2476597
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479929770.4248271
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479879094.0267951
+    }
+  },
+  "76561198136146945": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479955410.8106232
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479929761.7114716
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198121201980": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479879746.2742219
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479930140.2904861
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198269392850": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198075873580": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198120689127": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479880395.8190589
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479930811.9515288
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198203714167": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479882280.8555896
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479933601.7275977
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479882303.80961
+    }
+  },
+  "76561198104473577": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479941462.1575041
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479932518.2376585
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479995809.2322872
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198193396442": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479882136.3670423
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198147825023": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479883638.3132303
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479933419.7751276
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479937937.0606723
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198163893648": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479882468.1461775
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198136819199": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479882567.8688056
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479934051.2696528
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480011095.6301441
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479959515.1271813
+    }
+  },
+  "76561198085799241": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479883039.3218677
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479951929.2775629
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479885002.4863141
+    }
+  },
+  "76561198006849240": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479884831.0929658
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479982870.0831635
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479947827.0069675
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479925873.1304605
+    }
+  },
+  "76561198085529496": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479939629.4191232
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479989708.9208028
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480011981.8118885
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479961655.5666115
+    }
+  },
+  "76561198093511753": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479886226.0095391
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479937025.4635561
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479887025.5752292
+    }
+  },
+  "76561198062397024": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479950408.3448458
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479938767.8172712
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479948824.5531764
+    }
+  },
+  "76561198343433273": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479890786.5645652
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479941123.0256376
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479896401.7188382
+    }
+  },
+  "76561198092775793": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198080090842": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479893168.7778363
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479943576.0337856
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479943583.5710127
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479893191.8279281
+    }
+  },
+  "76561198105533078": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479944099.4947212
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479893414.1190796
+    }
+  },
+  "76561198083374976": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479902943.6617935
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479953268.8530605
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479902928.4872427
+    }
+  },
+  "76561198022988104": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479957755.2877014
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479994256.6185112
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480008690.0214479
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479943202.0989089
+    }
+  },
+  "76561198156470754": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479943116.1004405
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479954817.4209552
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479906515.1564372
+    }
+  },
+  "76561198095070095": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479908347.8277516
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479961746.5772021
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479960892.2129669
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479908387.5037985
+    }
+  },
+  "76561198114967417": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198244304878": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479911625.1263106
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479961705.0493817
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198273915014": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479965519.1006069
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198228111436": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479916489.4365995
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479966940.4014676
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198106835572": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479969149.4426787
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198203636413": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198219281491": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479922946.1278067
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479974724.6626737
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479977346.4346311
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198178103661": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479923127.0813217
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198170238313": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479923155.5095809
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479973718.5349016
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198121919933": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479923475.126054
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479974139.9810205
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198056020957": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198166661630": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479925488.1563137
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479976371.1194184
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479925447.7916083
+    }
+  },
+  "76561198176308349": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479927476.4999015
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479977134.3112292
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479977968.5792029
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479927548.4418871
+    }
+  },
+  "76561198178885866": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479925457.7701788
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479993303.4275129
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198038112243": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479975887.9330993
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198173056699": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479947334.2691696
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479977106.6026621
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480000059.8681448
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479949627.4130352
+    }
+  },
+  "76561198259388416": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479930563.996448
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479977341.67807
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479980901.0250671
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479930435.7795048
+    }
+  },
+  "76561198085949547": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479982458.1761923
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479984905.9983647
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479934875.2794633
+    }
+  },
+  "76561198330445744": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479931743.5034564
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198268828982": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479983021.7025559
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198175687218": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198125721135": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198033120863": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479938691.2965755
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479990094.3363712
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480012302.0940013
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198209556871": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198087921972": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479939731.3318472
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479989997.8088143
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479990043.9700761
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479939638.0894372
+    }
+  },
+  "76561198023717155": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479942185.4550605
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479992386.4462354
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479992664.2315989
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479942247.1091824
+    }
+  },
+  "76561198133359491": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479940899.7302029
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479991686.7332945
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198250210772": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479941389.7400639
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479997533.2113802
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198109979075": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479941498.0158875
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479991906.7042208
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479991934.3537316
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479941524.6554325
+    }
+  },
+  "76561198244162476": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479944187.0853896
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479992953.8913484
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479994628.500104
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198058596706": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479943494.6033809
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198317497231": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198092514740": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479944360.2914741
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479996071.0563433
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479994801.6991785
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479944420.855547
+    }
+  },
+  "76561198088286898": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479946652.6886132
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479998024.6456065
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479998286.5667577
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479948768.4043365
+    }
+  },
+  "76561198094919501": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479947353.6777923
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479997714.8125124
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479999840.8701625
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479947341.016639
+    }
+  },
+  "76561198135521169": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479945245.8336046
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479996853.8409424
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198136732525": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561197966136443": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479996096.0102711
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198060633470": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479945854.9476738
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198129926688": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479946176.4179261
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479997051.5415137
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561197989636676": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479946712.69215
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479996705.85204
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479999683.7835245
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198233210952": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479946398.9633207
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198327599979": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479947061.9370348
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479997728.3504937
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479997785.7535355
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479949427.1780219
+    }
+  },
+  "76561198165352800": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479999403.5067739
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479948978.1854911
+    }
+  },
+  "76561198056851306": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479947833.6390064
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479998869.3225517
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479949572.0989845
+    }
+  },
+  "76561198153028785": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479947924.0807292
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198073590638": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479948672.2100987
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479999550.8590655
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198103569985": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479948927.809186
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479999916.1933782
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479950397.1871471
+    }
+  },
+  "76561198275396968": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479949146.9533205
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479999631.4893804
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1479999646.5858564
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479949186.7765081
+    }
+  },
+  "76561198141336411": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479999707.9617076
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198204497151": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479950276.1590953
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480000990.9439492
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480003364.5589559
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479950416.1493304
+    }
+  },
+  "76561198076706955": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479950095.6670249
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1479999968.1702173
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479949624.8655868
+    }
+  },
+  "76561198267146968": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479949915.1579375
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480000416.3399599
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480001307.3563402
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198049238781": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479949830.3556235
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480000226.4178464
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198007604343": {
+    "daily": {
+      "max": 0,
+      "cooldown": 1480000229.2235372
+    },
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479950225.938941
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198329270198": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479950279.7465353
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480000667.4567628
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198124827617": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479950301.0709829
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480000988.72581
+    }
+  },
+  "76561198029773340": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479950663.6967008
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480001004.062516
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480001310.5283816
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198111321434": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479956267.4970846
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480001599.8007596
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480004087.8234835
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198075828321": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479951275.8536861
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480001809.3276718
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480001802.4060345
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479951250.9498053
+    }
+  },
+  "76561198057659923": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479951432.7331145
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480001953.5299439
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479951535.7799244
+    }
+  },
+  "76561198134497805": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479952152.9146836
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480002096.1807294
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480004124.3064637
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479952146.2552986
+    }
+  },
+  "76561198168146398": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479954460.4843719
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198296526028": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198157754810": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479960388.82095
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480002625.6984873
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480004390.6999068
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198151295546": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479952500.0655613
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480002993.5922539
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479952514.1620779
+    }
+  },
+  "76561198080982711": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198067677497": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479952852.8498421
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198135917818": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479953319.8786657
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480003910.8107464
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198279092263": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480003717.5254128
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198204443564": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479953409.9180036
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480004531.8432443
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198295457153": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479954924.5323396
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480003898.9283524
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198072684561": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479953514.1469452
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480004324.673593
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479953530.0061536
+    }
+  },
+  "76561198140492446": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479953745.4237263
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480004126.4415135
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480004160.1298168
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479953706.0769837
+    }
+  },
+  "76561198084790296": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479953725.6897905
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480008329.0573258
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479958887.2621343
+    }
+  },
+  "76561198210576717": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480006556.9160511
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198093430348": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479953977.3300841
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198056191905": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479954177.9224279
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480004993.2076375
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480004567.8237443
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479954585.093858
+    }
+  },
+  "76561198072569025": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479954140.572614
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198316613222": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479954337.8718009
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198153205782": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479954734.8184354
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480005045.68696
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198113401076": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479954850.7205637
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480005584.9660652
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198022678544": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479955178.8632157
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480008982.7801704
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479955116.5254388
+    }
+  },
+  "76561198083975390": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479956636.3707924
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480005821.4388144
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480010611.0715103
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198264376782": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479955394.2036996
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480008755.4161539
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479955585.8854992
+    }
+  },
+  "76561198050509996": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198128908416": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479955505.5955114
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198302967562": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479955550.3244016
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480006016.5479009
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480006034.4190381
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479955646.2824128
+    }
+  },
+  "76561198069931704": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479955707.97657
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198217778844": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479957445.2113743
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480009323.7641337
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480007877.9177358
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479958909.132103
+    }
+  },
+  "76561198113489751": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479955960.6118186
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198086352059": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479957080.5507076
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480007053.4832013
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480007492.313988
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479957077.0633636
+    }
+  },
+  "76561198113473622": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480006512.5615203
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198306185062": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198257207779": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479956553.8947072
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480007113.1714368
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198132460013": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480006685.2220807
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198179078433": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479956748.3181362
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480007162.49473
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480007153.3739843
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198164986942": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479956942.7135408
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480008842.2414117
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480009084.0502756
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198031769501": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479957089.4612532
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480007798.957022
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479957849.4770176
+    }
+  },
+  "76561198085600898": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479957136.4903502
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480007414.1099987
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198273418910": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479957265.2578235
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480008704.7806
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480009102.6581192
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479958677.6671548
+    }
+  },
+  "76561198154455765": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479957885.3774428
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480008117.0960803
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479957483.9104824
+    }
+  },
+  "76561198118224322": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479957571.8237822
+    }
+  },
+  "76561198068083670": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479957719.8687391
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480008048.0118363
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198026074990": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479957710.123394
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480008716.5889239
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479960116.5358615
+    }
+  },
+  "76561198195238007": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479957904.6479211
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479958472.5634842
+    }
+  },
+  "76561198115457526": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479957944.5071411
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480010747.55338
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198148483423": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479958675.7823472
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480008524.4747078
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198178047335": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480009410.1749916
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198053022616": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479958420.0301123
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480009472.1334033
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198126789780": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479958440.7439744
+    }
+  },
+  "76561198033203466": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480008870.4124227
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198202459288": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479958570.0759883
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480009299.5979633
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479958903.3095207
+    }
+  },
+  "76561198029947284": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479959124.9470439
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480010187.6434948
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198075062303": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479959213.5359902
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480010972.3849664
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480010625.6755128
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479960563.5945375
+    }
+  },
+  "76561198041674320": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198138773455": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480010919.2880535
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479959480.9193788
+    }
+  },
+  "76561198191858861": {
+    "daily": {
+      "max": 0,
+      "cooldown": 1480010075.1115868
+    },
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479959711.2192104
+    }
+  },
+  "76561198061807761": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480010318.2096903
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198148151743": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479959898.1744776
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479960206.0066533
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198272323574": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479959901.6408031
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479960331.4679563
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480011355.72054
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198090573226": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479959990.7262239
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480010514.5709767
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198195686438": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479960124.9749527
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480013174.65969
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198062022545": {
+    "food": {
+      "max": 0,
+      "cooldown": 1479960199.8207209
+    },
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479960221.0921185
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480010642.4886343
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480010762.7469492
+    }
+  },
+  "76561198027849698": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479960821.7100406
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480010615.4366956
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480012312.9323938
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198125839076": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479960286.4367759
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480010696.1651049
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479960311.8591535
+    }
+  },
+  "76561198153136685": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479960326.1498568
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480012928.6728165
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479960420.7976127
+    }
+  },
+  "76561198116761985": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479960635.86884
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480010871.1338787
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479960458.0733552
+    }
+  },
+  "76561198267950893": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479961876.1291041
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480012677.4999723
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479962342.5423396
+    }
+  },
+  "76561198258071993": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479960504.7451086
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480010911.4295175
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480010915.5885065
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479960519.1409123
+    }
+  },
+  "76561198093891208": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480010947.3619733
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198149697885": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198102111340": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198151902245": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479961078.9146693
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480013753.9121249
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198117623028": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480011213.6112761
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480013267.61182
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198104419992": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479963045.250154
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480012827.4927969
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198040905847": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479960923.0502131
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480013100.623698
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479961594.678226
+    }
+  },
+  "76561198176353523": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479961291.5906005
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480011374.3474047
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198176889285": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479961278.108675
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480011410.9735219
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198012572775": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479961031.5542564
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480014142.6228528
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479962347.4880819
+    }
+  },
+  "76561198084413678": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479961079.1508968
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479961032.4260917
+    }
+  },
+  "76561198131951213": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479962054.3429911
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480012535.8451416
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480012572.2960939
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479962028.4231372
+    }
+  },
+  "76561198141100720": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480012043.6341684
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198026013866": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479961491.7735522
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480012069.1506362
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479961466.5693853
+    }
+  },
+  "76561198345376588": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479961755.3933325
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480013195.0642574
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480013598.7963867
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198157291254": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479961529.9131231
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480012731.3566132
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480012702.5770173
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479962290.9028246
+    }
+  },
+  "76561198110380442": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480011993.0146313
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198036987472": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479961659.0899911
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480014028.2672017
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198056476902": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198135230823": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480012262.8663876
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198303926691": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479962606.0019672
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480012269.5287757
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198168220025": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480012582.4718521
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198141120294": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479962256.6569989
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480012741.683517
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480012777.0103931
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479962402.044395
+    }
+  },
+  "76561198138659136": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480012935.6865425
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198168791551": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479962477.0072773
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480013647.5161035
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198062986882": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479962523.229598
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198181238455": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479962574.9371793
+    }
+  },
+  "76561198179761563": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479963272.6121669
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480013200.5214884
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480013192.2185259
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479963066.8959093
+    }
+  },
+  "76561198253868695": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480013107.5203111
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198130398303": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479963407.2752941
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480013817.2959015
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198082191472": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479963099.1248169
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 1479963102.2728319
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480013568.5904224
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480013726.9732928
+    }
+  },
+  "76561198094202351": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479963243.0788491
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480013621.6813304
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480013647.5491357
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198196780102": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480013849.8310993
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198020565890": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198264141075": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479963714.7681434
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480014118.0522923
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 1480014111.4149296
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198092258363": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198141944478": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198027031161": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480014418.9207993
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198074301886": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 1480014558.636764
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198124702618": {
+    "hunter": {
+      "max": 0,
+      "cooldown": 1479964369.0044787
+    },
+    "daily": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "medic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "food": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  }
+}

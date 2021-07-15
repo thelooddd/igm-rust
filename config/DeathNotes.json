@@ -1,0 +1,165 @@
+{
+  "Attachments": {},
+  "Bodyparts": {
+    "Body": "Body",
+    "Hip": "Hip",
+    "Horse_RootBone": "Horse_RootBone",
+    "Neck2": "Neck2",
+    "Right_Pelvis": "Right_Pelvis",
+    "Spine_2": "Spine_2",
+    "Spine_3": "Spine_3",
+    "Tail_1": "Tail_1"
+  },
+  "Messages": {
+    "Animal": [
+      "A {attacker} followed {victim} until it finally caught him."
+    ],
+    "Animal Sleeping": [
+      "{victim} был убит {attacker} во время сна."
+    ],
+    "AnimalDeath": [
+      "{attacker} убил {victim} из {weapon}{attachments} с {distance}m."
+    ],
+    "Bleeding": [
+      "{victim} истек кровью."
+    ],
+    "Blunt": [
+      "{attacker} использовал {weapon} для удара {victim}."
+    ],
+    "Blunt Sleeping": [
+      "{attacker} used a {weapon} to turn {victim}'s dream into a nightmare."
+    ],
+    "Bullet": [
+      "{victim} получил выстрел в {bodypart} от {attacker} из {weapon}{attachments} с {distance}m."
+    ],
+    "Bullet Sleeping": [
+      "Спящий {victim} получил выстрел в {bodypart} от {attacker} из {weapon}{attachments} с {distance}m."
+    ],
+    "Cold": [
+      "{victim} стал леденным камнем."
+    ],
+    "Drowned": [
+      "{victim} пытался плавать."
+    ],
+    "Explosion": [
+      "{victim} был разорван {attacker} {weapon}"
+    ],
+    "Explosion Sleeping": [
+      "{victim} был разорван {attacker} {weapon} во время сна."
+    ],
+    "Fall": [
+      "{victim} разбился."
+    ],
+    "Flamethrower": [
+      "{victim} был сожжен дотла {attacker} используя {weapon}."
+    ],
+    "Flamethrower Sleeping": [
+      "{victim} был сожжен дотла, во время сна {attacker} используя {weapon}."
+    ],
+    "Generic": [
+      "The death took {victim} with him."
+    ],
+    "Generic Sleeping": [
+      "The death took sleeping {victim} with him."
+    ],
+    "Heat": [
+      "{victim} испепелен."
+    ],
+    "Helicopter": [
+      "{victim} был застрелен на куски {attacker}."
+    ],
+    "Helicopter Sleeping": [
+      "{victim} спал, когда он был застрелен на куски {attacker}."
+    ],
+    "HelicopterDeath": [
+      "{victim} снесли."
+    ],
+    "Hunger": [
+      "{victim} забыл поесть."
+    ],
+    "Poison": [
+      "{victim} умер после отравления."
+    ],
+    "Radiation": [
+      "{victim} стал слишком радиоактивным."
+    ],
+    "Slash": [
+      "{attacker} slashed {victim} in half."
+    ],
+    "Slash Sleeping": [
+      "{attacker} slashed sleeping {victim} in half."
+    ],
+    "Stab": [
+      "{victim} был зарезан {attacker} используя {weapon}."
+    ],
+    "Stab Sleeping": [
+      "{victim} был зарезан {attacker} используя {weapon} прежде чем он смог даже проснутся."
+    ],
+    "Structure": [
+      "{attacker} пронзил {victim}."
+    ],
+    "Suicide": [
+      "{victim} самоубийство."
+    ],
+    "Thirst": [
+      "{victim} dried internally."
+    ],
+    "Trap": [
+      "{victim} ran into a {attacker}"
+    ],
+    "Turret": [
+      "{attacker} защитил свой дом от {victim}."
+    ],
+    "Unknown": [
+      "{victim} умер. Никто не знает, почему, просто так получилось."
+    ],
+    "Unknown Sleeping": [
+      "{victim} спал когда он умер. Никто не знает, почему, просто так получилось"
+    ]
+  },
+  "Names": {
+    "Bear": "Bear",
+    "Boar": "Boar",
+    "Horse": "Horse",
+    "No Attacker": "No Attacker",
+    "Stag": "Stag"
+  },
+  "Settings": {
+    "Attachments Color": "#C4FF00",
+    "Attachments Formatting": " ({attachments})",
+    "Attachments Split": " | ",
+    "Attacker Color": "#C4FF00",
+    "Bodypart Color": "#C4FF00",
+    "Chat Icon (SteamID)": "76561198077847390",
+    "Console Formatting": "{Message}",
+    "Distance Color": "#C4FF00",
+    "Formatting": "[{Title}]: {Message}",
+    "Health Color": "#C4FF00",
+    "Log to File": false,
+    "Message Color": "#696969",
+    "Message Radius": 300.0,
+    "Message Radius Enabled": false,
+    "Needs Permission": false,
+    "Simple UI - Font Size": 16,
+    "Simple UI - Left": 0.4,
+    "Simple UI - Max Height": 0.05,
+    "Simple UI - Max Width": 0.8,
+    "Simple UI - Top": 0.05,
+    "Simple UI Hide Timer": 5.0,
+    "Strip Colors from Simple UI": false,
+    "Title": "Уведомление",
+    "Title Color": "#80D000",
+    "Use Popup Notifications": false,
+    "Use Simple UI": true,
+    "Victim Color": "#C4FF00",
+    "Weapon Color": "#C4FF00",
+    "Write to Chat": false,
+    "Write to Console": true
+  },
+  "Weapons": {
+    "Hunting Bow": "Hunting Bow",
+    "No Weapon": "No Weapon",
+    "Rock": "Rock",
+    "Stone Hatchet": "Stone Hatchet"
+  }
+}

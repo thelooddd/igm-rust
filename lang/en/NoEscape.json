@@ -1,0 +1,11 @@
+{
+  "Raid Blocked Message": "Вы не можете что-то сделать во время блокировки рейда ({time})",
+  "Combat Blocked Message": "Вы не можете сделать это во время боя ({time})",
+  "Raid Block Complete": "Больше нет блокировки рейда.",
+  "Combat Block Complete": "Больше нет блокировки боя.",
+  "Raid Block Notifier": "Блокировка рейда на {time}",
+  "Combat Block Notifier": "Блокировка боя на {time}",
+  "Unit Seconds": "секунд",
+  "Unit Minutes": "минут",
+  "Prefix": ""
+}

@@ -1,0 +1,220 @@
+{
+  "Kits": {
+    "hunter": {
+      "name": "Hunter",
+      "description": "Лук, копьё, 36 стрел, рубашка, штаны, обувь",
+      "max": 0,
+      "cooldown": 36000.0,
+      "authlevel": 0,
+      "hide": false,
+      "npconly": false,
+      "permission": null,
+      "image": null,
+      "building": null,
+      "items": [
+        {
+          "itemid": -420273765,
+          "container": "main",
+          "amount": 36,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": 115739308,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": 707432758,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": -853695669,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": true,
+          "mods": []
+        },
+        {
+          "itemid": 707427396,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": 1767561705,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": -2118132208,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        }
+      ]
+    },
+    "daily": {
+      "name": "Daily",
+      "description": "Для постройки дома",
+      "max": 0,
+      "cooldown": 86400.0,
+      "authlevel": 0,
+      "hide": false,
+      "npconly": false,
+      "permission": null,
+      "image": null,
+      "building": null,
+      "items": [
+        {
+          "itemid": 3655341,
+          "container": "main",
+          "amount": 5000,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": -892070738,
+          "container": "main",
+          "amount": 3000,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": 1257201758,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": -1224598842,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": -307490664,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": -975723312,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": -2104481870,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        }
+      ]
+    },
+    "medic": {
+      "name": "Medic",
+      "description": "Аптечка, бинт х5, шприц х3",
+      "max": 0,
+      "cooldown": 86400.0,
+      "authlevel": 0,
+      "hide": false,
+      "npconly": false,
+      "permission": null,
+      "image": null,
+      "building": null,
+      "items": [
+        {
+          "itemid": -789202811,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": -337261910,
+          "container": "belt",
+          "amount": 5,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": 586484018,
+          "container": "belt",
+          "amount": 3,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        }
+      ]
+    },
+    "food": {
+      "name": "Food",
+      "description": "Еда для организма",
+      "max": 0,
+      "cooldown": 36000.0,
+      "authlevel": 0,
+      "hide": false,
+      "npconly": false,
+      "permission": null,
+      "image": null,
+      "building": null,
+      "items": [
+        {
+          "itemid": -1691991080,
+          "container": "belt",
+          "amount": 5,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": 718197703,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        },
+        {
+          "itemid": -1043746011,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "mods": []
+        }
+      ]
+    }
+  }
+}
